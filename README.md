@@ -184,7 +184,7 @@ python src/tune_models.py --model gradient_boosting
 - **Adjusted R²**: R² adjusted for the transformed feature count; most interpretable for linear-model discussion.
 - **MAPE**: average absolute percentage error.
 
-## Interview explanation
+## Project Output explanation
 
 A concise explanation:
 
