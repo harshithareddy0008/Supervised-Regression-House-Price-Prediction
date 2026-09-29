@@ -190,7 +190,7 @@ A concise explanation:
 
 > I built an end-to-end supervised regression project for house-price prediction. I created a reproducible dataset with numeric and categorical features, missing values, nonlinear relationships and noise. I built preprocessing pipelines for imputation, scaling and one-hot encoding; implemented simple, multiple and polynomial linear regression; regularized models such as Ridge, Lasso and ElasticNet; nonlinear models such as KNN, SVR and decision trees; and ensemble/boosting methods including Random Forest, Extra Trees, AdaBoost, Gradient Boosting, XGBoost and CatBoost. I compared the models using MAE, RMSE, R² and MAPE, persisted the best model, analyzed feature importance and exposed predictions through a Streamlit app.
 
-## Important discussion points for interviews
+## Important discussion points
 
 1. Why scaling matters for KNN, SVR and regularized linear models.
 2. Why tree models generally do not require feature scaling.
