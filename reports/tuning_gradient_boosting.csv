@@ -1,0 +1,2 @@
+MAE,MSE,RMSE,R2,Adjusted_R2,MAPE_percent,param_model__subsample,param_model__n_estimators,param_model__min_samples_leaf,param_model__max_depth,param_model__learning_rate
+36866.92653870462,2232070191.8401246,47244.79010261475,0.9719705339717896,0.9714223386328025,7.860750862765002,0.8,350,2,4,0.08

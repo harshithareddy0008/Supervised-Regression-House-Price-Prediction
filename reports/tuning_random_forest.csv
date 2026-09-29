@@ -1,0 +1,2 @@
+MAE,MSE,RMSE,R2,Adjusted_R2,MAPE_percent,param_model__n_estimators,param_model__min_samples_split,param_model__min_samples_leaf,param_model__max_features,param_model__max_depth
+47310.88278559549,3682158507.4280086,60680.79191497099,0.9537608910455662,0.9528565547309812,10.107387980627102,150,2,1,0.8,12

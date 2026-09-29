@@ -1,0 +1,5 @@
+Experiment,Degree,RMSE,R2
+Polynomial Regression degree 2,2,154186.6768294629,0.7014612754077794
+Polynomial Regression degree 3,3,154188.9835416542,0.7014523427544402
+Simple Linear Regression,1,154545.30081539974,0.7000709132951022
+Polynomial Regression degree 4,4,155053.9793382354,0.6980932592572012

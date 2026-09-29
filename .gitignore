@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+catboost_info/
+
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.streamlit/
